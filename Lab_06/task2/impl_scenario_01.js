@@ -1,4 +1,3 @@
-// Реализация паттерна Singleton для AppConfig
 class AppConfig {
   constructor() {
     // Если экземпляр уже существует, возвращаем его
